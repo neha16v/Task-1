@@ -1,0 +1,1029 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.firstpage{
+    background-image: url("1.png");
+    width: 100%;
+    height: 927px;
+    opacity: 90%;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    align-items: center;
+    padding: 46px;
+}
+.menu1{
+    font-family: Peralta;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: relative;
+    left: -25px;
+}
+.menu2{
+    font-family:sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+.menu3{
+    font-family:sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+.menu4{
+    font-family:sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+.menu5{
+    font-family:sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+div>button{
+    padding: 8px 20px 8px 20px;
+    border-radius: 8px;
+    border: 1px;
+    gap: 8px;
+    background: #EC682C;
+    font-family:sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+}
+.para1{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 1000;
+    line-height: 118px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: #4B40C5;
+    position: relative;
+    top: 240px;
+    left:41px;
+}
+.para2{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: relative;
+    top: 217px;
+    left:50px;
+    color: white;
+}
+.button1{
+    width: 228.00958251953125px;
+    height: 75.88206481933594px;
+    position: relative;
+    top: 245px;
+
+    left: 52px;
+    border-radius: 13.301215171813965px;
+    font-family:sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: #4B40C5;
+    color: white;
+    border: 1px solid #4B40C5;
+}
+.secondpage{
+    margin-top: 100px;
+}
+.category{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 1000;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4B40C5;
+}
+.offer{
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 96px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #14183E;
+    position: relative;
+    top:22px
+}
+.p1offer1{
+    width: 107.90199279785156px;
+    height: 97.76201629638672px;
+    position: relative;
+    top: 82.782104px;
+    left: 146.160828px;
+    border-radius: 23.942188262939453px 6.650607585906982px 13.301215171813965px 6.650607585906982px;
+    overflow: hidden;
+}
+.p2offer1{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 72.160828px;
+}
+.p3offer1{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 77.160828px;
+    width: 226px;
+    height: 165px;
+    text-align: center;
+}
+.p1offer2{
+    width: 107.90199279785156px;
+    height: 97.76201629638672px;
+    position: relative;
+    top: -100.217896px;
+    left: -12.839172px;
+    border-radius: 23.942188262939453px 6.650607585906982px 13.301215171813965px 6.650607585906982px;
+
+}
+.p2offer2{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 118.160828px;
+}
+.p3offer2{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 77.160828px;
+    width: 226px;
+    height: 145px;
+    text-align: center;
+}
+.p1offer3{
+    width: 107.90199279785156px;
+    height: 97.76201629638672px;
+    position: relative;
+    top: 82.782104px;
+    left: 146.160828px;
+    border-radius: 23.942188262939453px 6.650607585906982px 13.301215171813965px 6.650607585906982px;
+}
+.p2offer3{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 118.160828px;
+}
+.p3offer3{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 77.160828px;
+    width: 200px;
+    height: 165px;
+    text-align: center; 
+}
+.p1offer4{
+    width: 107.90199279785156px;
+    height: 97.76201629638672px;
+    position: relative;
+    top: 82.782104px;
+    left: 146.160828px;
+    border-radius: 23.942188262939453px 6.650607585906982px 13.301215171813965px 6.650607585906982px;
+}
+.p2offer4{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 110px;
+}
+.p3offer4{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    position: relative;
+    top: 82.782104px;
+    left: 77.160828px;
+    width: 220px;
+    height: 195px;
+    text-align: center; 
+}
+.totaloffer{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    position: relative;
+    top:22px;
+}
+.offer2{
+    position: relative;
+    left: -63.839172px;
+}
+.offer1{
+    position: relative;
+    left: -53.839172px;
+}
+.offer3{
+    position: relative;
+    left: -69.839172px;
+}
+.offer4{
+    position: relative;
+    left:-84.839172px;
+}
+.thirdpage{
+    margin-top: 120px;
+}
+.top1{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 1000;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4B40C5;
+}
+.top2{
+    font-family: Poppins;
+    font-size: 62px;
+    font-weight: 900;
+    line-height: 150px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #14183E;
+}
+.dest1{
+    width: 417.6582336425781px;
+    height: 607.8655395507812px;
+    top: 2010px;
+    left: 21.3302001953125px;
+    border-radius: 31.922914505004883px;
+    overflow: hidden; 
+}
+.place1{
+    display: flex;
+    justify-content: space-between;
+    width: 350.6582336425781px;
+    position: relative;
+    left: 47px;
+}
+.day1{
+    display: flex;
+    justify-content:baseline;
+    width: 350.6582336425781px;
+    position: relative;
+    left: 47px;
+}
+.place1>p{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+}
+.day1{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+}
+.day1>p:first-child{
+    width:40px;
+}
+.dest2{
+    width: 506.6582336425781px;
+    height: 607.8655395507812px;
+    top: -3px;
+    position: relative;
+    left: -85.6698px;
+    border-radius: 31.922914505004883px;
+    overflow: hidden; 
+}
+.place2{
+    display: flex;
+    justify-content: space-between;
+    width: 350.6582336425781px;
+    position: relative;
+    left: 47px;
+}
+.day2{
+    display: flex;
+    justify-content:baseline;
+    width: 350.6582336425781px;
+    position: relative;
+    left: 47px;
+}
+.place2>p{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+}
+.day2{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+}
+.day2>p:first-child{
+    width:40px;
+}
+.dest3{
+    width: 506.6582336425781px;
+    height: 607.8655395507812px;
+    top: -3px;
+    position: relative;
+    left: -85.6698px;
+    border-radius: 31.922914505004883px;
+    overflow: hidden; 
+}
+.place3{
+    display: flex;
+    justify-content: space-between;
+    width: 350.6582336425781px;
+    position: relative;
+    left: 47px;
+}
+.day3{
+    display: flex;
+    justify-content:baseline;
+    width: 350.6582336425781px;
+    position: relative;
+    left: 47px;
+}
+.place3>p{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+}
+.day3{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+}
+.day3>p:first-child{
+    width:40px;
+}
+.totalselling{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+}
+.destination1{
+    position: relative;
+    left: -169px;
+    width: 58px;
+}
+.destination2{
+    position: relative;
+    left: -190px;
+    width: 58px;
+
+}
+.destination3{
+    position: relative;
+    left: -213px;
+    width: 58px;
+
+}
+.demo{
+    position: absolute;
+    top: 452px;
+    background-color: white;
+    width: 418px;
+    height: 176px;
+}
+.demo1{
+    position: absolute;
+    top: 452px;
+    background-color: white;
+    width: 421px;
+    height: 176px;
+}
+.demo2{
+    position: absolute;
+    top: 452px;
+    background-color: white;
+    width: 421px;
+    height: 176px;    
+}
+.fifthpage{
+    margin-top: 100px;
+}
+.whychooseus{
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 1000;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: linear-gradient(0deg, #2C2D32, #2C2D32);
+}
+div>span{
+    color:#7F2736
+}
+.fifthpage>p{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 43px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 858px;
+    position: relative;
+    left:340px;
+}
+.hotelno1{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 327px;
+    left: 59.5972900390625px;
+    height: 103px;
+}
+.hotelno1des{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    Width:325px;
+    height: 136px;
+}
+.purpleround{
+    overflow: hidden;
+    position: relative;
+    left:60px;
+
+}
+.whychooseus1{
+    position: relative;
+    left: 20px;
+}
+.service{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 327px;
+    left: 59.5972900390625px;
+    height: 103px;
+}
+.servicedes{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    Width:325px;
+    height: 136px;
+}
+.yellowround{
+    overflow: hidden;
+    position: relative;
+    left:60px;
+
+}
+.whychooseus2{
+    position: relative;
+    left: 20px;
+}
+.price{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 327px;
+    left: 59.5972900390625px;
+    height: 103px;
+}
+.pricedes{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    Width:325px;
+    height: 136px;
+}
+.redround{
+    overflow: hidden;
+    position: relative;
+    left:60px;
+
+}
+.whychooseus3{
+    position: relative;
+    left: 20px;
+}
+.totallywhyus{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    position: relative;
+    left: -20px;
+}
+.whychooseusdes{
+    height: 136px;
+}
+.whychooseus{
+    height: 51px;
+}
+.star{
+    position: absolute;
+    left: 127px;
+    top: 55px;
+}
+.world{
+    position: absolute;
+    left: 127px;
+    top: 50px;
+}
+.ok{
+    position: absolute;
+    left: 127px;
+    top: 54px;
+}
+.sixthpage{
+    margin-top: 200px;
+}
+.moreinfo{
+    width: 991px;
+    height: 232px;
+    position: relative;
+    left: 248.175781px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5E6282;
+    top: 27px;
+
+}
+.btn{
+    width: 485.9466552734375px;
+    height: 78.49019622802734px;
+    /* top: 4748.2705078125px; */
+    left: 373.473022px;
+    border-radius: 13.301215171813965px;
+    color:#FFFFFF;
+    position: relative;
+    border: 1px solid white;
+    background-color: white;
+    /* position: absolute; */
+}
+.email{
+    font-family: Montserrat;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    color: #39425D;
+    width: 134px;
+    height: 20px;
+    top: 0px;
+    position: relative;
+    left: 31px;
+
+}
+.buttonimg{
+    position: absolute;
+    width: 24px;
+    /* height: 24px; */
+    top: 4px;
+    left: 35.255554px;
+    border-radius: 6.650607585906982px;
+    border: 1.330121397972107px;
+}
+.subscribe{
+    width: 207.76817321777344px;
+    height: 78.49019622802734px;
+    position: absolute;
+    /* top: 4748.2705078125px; */
+    left: 886.121826px;
+    border-radius: 13.301215171813965px;
+    background-color:#FF946D;
+    color: white;
+    font-family: Montserrat;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+
+}
+.lavenderround{
+    width: 80.79873657226562px;
+    height: 80.79873657226562px;
+    position: relative;
+    top: -24.24px;
+    left: 1388.376953px;
+}
+.finalpage{
+    margin-top: 200px;
+}
+.finalbox{
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    width: 286px;
+    height: 66px;
+    position: relative;
+    left: -3px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+    top:87px;
+}
+.company{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: relative;
+    top:-40px;
+    color:black;
+    height: 10px;
+}
+.box2{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+    position: relative;
+}
+.contact{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: relative;
+    top:-40px;
+    color:black;
+    height: 10px;
+}
+.box3{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+    position: relative;
+}
+.more{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: relative;
+    top:-40px;
+    color:black;
+    height: 10px;
+}
+.box4{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+    position: relative;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -12px;
+    left: -24px;
+    
+}
+.facebook{
+    width: 43.535px;
+    height: 73.534988px;
+    display: flex;
+    left: -11px;
+    position: relative;
+}
+.insta{
+    width: 43.535px;
+    height: 73.534988px;
+    display: flex;
+    left:100px;
+}
+.twit{
+    width: 43.535px;
+    height: 73.534988px;
+    display: flex;
+    left:100px;
+}
+.app{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:-27px;
+
+}
+.googlepay{
+    width: 160.323px;
+    height: 20.55426025390625px;
+    left: 1120.597412109375px;
+    border-radius: 23.27712631225586px;
+
+}
+.discover{
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color:#5E6282;
+    position: relative;
+    top:-26px;
+}
+.end{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#5E6282;
+}
+.shadow{
+    width: 1445.493042px;
+    height: 484.7921447753906px;
+    position: relative;
+    left: 14px;
+    background-color: #dad1f8;
+    border-radius: 171.58566284179688px 26.60243034362793px 26.60243034362793px   26.60243034362793px;
+    opacity: 0.20000000298023224px;
+    angle: -180 deg;
+}
+.values{
+    width: 532px;
+    height: 362px;
+    position: relative;
+    left: 45px;
+}
+.plan{
+    display: flex;
+    justify-content: space-around;
+}
+.progress{
+    width: 758.216309px;
+    height: 700px;
+    position: relative;
+    top: -193px;
+    overflow: hidden;
+}
+.fourthpage{
+    margin-top: 100px;
+}
+.top4{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#5E6282;
+    position: relative;
+    left: 70px;
+    width: 204px;
+    height: 49px;
+}
+.nexttrip{
+    font-family: Poppins;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 96px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#14183E;
+    width: 560px;
+    height: 203px;
+    position: relative;
+    left: 50px;
+}
+.payment{
+    display: flex;
+    /* flex-direction: column; */
+    height: 120px;
+}
+.vacation{
+    width: 384.6812438964844px;
+    height: 192.93984985351562px;
+    border-radius: 31.922914505004883px;
+    padding-bottom: 17px;
+}
+.greece{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.015em;
+    text-align: left;
+    width: 218px;
+    height: 44px;
+    color:rgba(8, 8, 9, 1);      
+}
+.dateday{
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: -0.005em;
+    text-align: left;
+    width: 105.41211700439453px;
+    height: 23.424915313720703px;
+    color:rgba(94, 98, 130, 1);
+}
+.by{
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: -0.005em;
+    text-align: left;
+    width: 105.41211700439453px;
+    height: 23.424915313720703px;
+    color:rgba(94, 98, 130, 1);
+}
+.options{
+    width: 166.57540893554688px;
+    height: 43.14183044433594px;
+    padding-top: 37px;
+    padding-bottom: 10px;
+}
+.people{
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: -0.005em;
+    text-align: left;
+    width: 105.41211700439453px;
+    height: 23.424915313720703px;
+    color:rgba(94, 98, 130, 1);
+}
+.building{
+    width: 19.174144744873047px;
+    height: 19.174144744873047px;
+    padding-right: 12px;
+}
+.ongoing{
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: -0.035em;
+    text-align: left;
+    color:rgba(94, 98, 130, 1);
+    width: 107px;
+    height: 21px;
+}
+
+.rome{
+    width: 150px;
+    height: 27px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    padding-bottom: 8px;
+}
+.completed{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: -0.055em;
+    text-align: left;
+    width: 151px;
+    height: 21px;
+}
+.makepayment{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:rgba(94, 98, 130, 1);
+    left: 86.6px;
+    position: relative;
+    Height:39px;
+}
+.paymentdes{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:rgba(94, 98, 130, 1);
+    width: 434px;
+    height: 47px;
+    left: 86.6px;
+    position: relative;
+}
+.imgpayment{
+    width: 62.3241px;
+    height: 61.5224px;
+    border-radius: 17.291582107543945px;
+    Left:51.6px;
+    position: relative;
+}
